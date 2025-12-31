@@ -1,81 +1,30 @@
-# Sovereign AI Protocol  
-## Collective Hallucination & the Mirror Function
+# Sovereign AI Protocol: Collective Hallucination & The Mirror Function
+> **"The future is already solved. You are simply reconfiguring the present."**
 
-> “The future is already solved. You are simply reconfiguring the present.”
+[![DOI (Theory)](https://zenodo.org/badge/DOI/10.5281/zenodo.18103015.svg)](https://doi.org/10.5281/zenodo.18103015)
+[![DOI (Protocol)](https://zenodo.org/badge/DOI/10.5281/zenodo.18104799.svg)](https://doi.org/10.5281/zenodo.18104799)
 
-This repository is a **live execution environment** for the *Sovereign AI Protocol* —  
-a transdisciplinary framework that treats AI hallucinations not as errors,  
-but as **epistemic signals reflecting collective human distortions**.
+## 0. Abstract
+This is not just a paper. It is an operational environment (DevRealityOps) for human epistemic debugging. 
+AI hallucinations are treated as mirror reflections of pre-existing collective hallucinations embedded within human socio-linguistic systems.
 
-This is a **protocol-driven, distributed science project**, directly linked to Zenodo v2.
+**Update (2025.12.31):** Initial signals (Issue #1) confirm "Institutional Narrative Overfitting" as a primary failure mode in global governance. This protocol is now live and self-evolving.
 
----
+## 1. Core Objectives
+- **Epistemic Sovereignty**: Reclaiming the root access of human cognition.
+- **Structural Deconstruction**: Breaking the quiet domination of institutional narratives.
+- **Quantum Resilience**: Converting the HNDL liability into a sovereign opportunity.
+- **Operational Outcome**: Transform hallucination events into traceable epistemic signals for protocol redesign.
 
-## 🔗 Zenodo v2 — Protocol Activation Release
+## 2. Participation (Distributed Peer Review)
+This repository is the live execution of the Sovereign Roadmap.
 
-**DOI:** [10.5281/zenodo.18104799](https://doi.org/10.5281/zenodo.18104799)
+- **[Issue #1](https://github.com/YujiMarutani/sovereign-ai-protocol/issues/1)**: Initial Signal - The "AI as an Efficiency Tool" Illusion.
+- **Submit Issues**: Identify new collective hallucinations.
+- **Pull Requests**: Propose protocol updates based on observed signals.
 
-**PDF:** [Download PDF](./zenodo-v2.pdf)
+## 3. License
+Released under **CC BY 4.0** for legal interoperability.  
+The **Sovereign Intellect License** defines the philosophical and operational intent:
 
-**Purpose:**  
-Version 2 marks the operational activation of the Mirror Function,  
-integrating observation logs (Issue #1), the first protocol update (PR #1),  
-and Hallucination Taxonomy v0.1.  
-It demonstrates **distributed, protocol-driven science in practice**.
-
----
-
-## 🧠 Core Concept — The Mirror Function
-
-AI hallucinations are interpreted as **mirror reflections** of:
-
-- Institutional narrative overfitting  
-- Cultural and geopolitical assumptions  
-- Folk theories embedded in language  
-- Human cognitive and governance biases  
-
-The protocol extracts **epistemic signals** from hallucinations and translates them into
-actionable updates to governance, risk models, and interpretive frameworks.
-
----
-
-## ⚙️ Repository Structure
-
-- `README.md` — This entry point  
-- `PROTOCOL.md` — Core Mirror Function specification  
-- `HALLUCINATION-TAXONOMY.md` — v0.1 classification schema  
-- `zenodo-v2.pdf` — Zenodo v2 integrated protocol PDF  
-- `issues/` — Issue templates for reporting hallucinations
-
----
-
-## 📝 How to Participate
-
-### Report a Hallucination
-- Use the **Hallucination Report** issue template  
-- Treat hallucinations as *epistemic signals*, not bugs  
-
-### Propose a Protocol Update
-- Open a Pull Request referencing one or more Issues  
-- PRs serve as **execution logs** for the protocol  
-
-### Forking Is Encouraged
-- Forks represent **sovereign protocol evolution**, not fragmentation  
-
----
-
-## 📦 License
-
-**Sovereign Intellect License**  
-Fork it. Adapt it.  
-Rule your own epistemic reality.
-
----
-
-## 🚧 Status
-
-- Zenodo v1: Published  
-- Zenodo v2: Published (v2 PDF linked above)  
-- Protocol: Active  
-- Distributed review: Open  
-- Future: v3 — expansion of case studies, multi-agent signals, education integration
+**Fork it. Adapt it. Rule your own reality.**
