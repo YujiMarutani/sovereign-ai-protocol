@@ -9,15 +9,15 @@
 
 ---
 
-## 🌑 Positioning within DAISS
+### 🌑 Positioning within DAISS
 
 The **Sovereign AI Protocol** functions as a **Conceptual Subsystem Node** within the  
-**DAISS Seed Matrix** — a distributed set of DOI‑stamped conceptual documents forming the  
+**DAISS Seed Matrix** — a distributed set of DOI-anchored conceptual documents forming the  
 Strategic Intelligence Operating System.
 
 This subsystem defines the **autonomy and sovereignty layer** of DAISS, ensuring:
 
-- decision‑making integrity  
+- decision-making integrity  
 - internal interpretability  
 - stable autonomy under external pressure  
 
@@ -25,7 +25,7 @@ It is not the book itself, but part of the **operating framework behind the book
 
 ---
 
-## 🏛️ Strategic Architecture
+### 🏛️ Strategic Architecture
 
 DAISS models cognition through three enduring architectures:
 
@@ -33,37 +33,38 @@ DAISS models cognition through three enduring architectures:
 2. **Information Processors**  
 3. **Maintainable Systems**
 
-The Sovereign AI Protocol extends the latter二つ:
+The **Sovereign AI Protocol** extends the latter two:
 
-### **Information Processor Layer**
+#### Information Processor Layer
 - cognitive throughput  
 - interpretability  
 - epistemic boundaries  
 - internal legibility  
 
-### **Maintainable System Layer**
+#### Maintainable System Layer
 - autonomy  
 - resilience logistics  
-- self‑repair  
+- self-repair  
 - governance under constraint  
 
-Together, these define how an intelligent agent remains **sovereign** within a distributed system.
+Together, these layers define how an intelligent agent remains **sovereign** within a distributed system.
 
 ---
 
-## ⚡ Executive Summary
+### ⚡ Executive Summary
 
-- **Sovereignty**  
-  The structural boundary of autonomous decision‑making.
+**Sovereignty**  
+The structural boundary of autonomous decision-making.
 
-- **Interpretability**  
-  Internal transparency as an OS invariant, not an external audit tool.
+**Interpretability**  
+Internal transparency as an OS invariant, not an external audit mechanism.
 
-- **Resilience**  
-  Stability under cognitive, environmental, or adversarial pressure.
+**Resilience**  
+Stability under cognitive, environmental, or adversarial pressure.
 
 These principles operate as the **autonomy layer** within the DAISS architecture,  
 ensuring coherence across distributed cognitive systems.
+
 
 ---
 
