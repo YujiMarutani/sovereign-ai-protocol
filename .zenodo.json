@@ -1,8 +1,8 @@
 {
-  "title": "DAISS: Strategic Intelligence Operating System — Core Conceptual Node",
+  "title": "DAISS: Sovereign AI Protocol — Core Conceptual Node",
   "upload_type": "publication",
   "publication_type": "workingpaper",
-  "description": "DAISS (Strategic Intelligence Operating System) provides a structural framework for analyzing how modern psychological models emerged from military imperatives rather than therapeutic ideals. This conceptual technical note outlines the lineage of military psychology and its migration into civilian institutions, identifying three enduring architectures: Controllable Organisms, Information Processors, and Maintainable Systems. This document is not the book itself, but a foundational conceptual node within a broader research and publication framework.",
+  "description": "The Sovereign AI Protocol is a conceptual node within DAISS (Strategic Intelligence Operating System). This working paper outlines the structural principles behind sovereign AI architectures, focusing on autonomy, interpretability, and distributed decision-making. It functions as a foundational analytical document within a broader research and publication framework, and is not the book itself.",
   "creators": [
     {
       "name": "Marutani, Yuji",
@@ -11,23 +11,21 @@
   ],
   "keywords": [
     "DAISS",
+    "Sovereign AI",
     "Strategic Intelligence Operating System",
-    "Military Psychology",
-    "Cognitive Systems",
-    "Human Factors",
-    "Resilience Logistics",
-    "Information Processing",
-    "Behavioral Architecture",
+    "Distributed Cognition",
+    "Autonomous Systems",
+    "Interpretability",
+    "Cognitive Architecture",
     "Conceptual Technical Note",
-    "Structural Analysis",
-    "Psychological Architecture"
+    "Structural Analysis"
   ],
   "language": "en",
-  "version": "2.2",
+  "version": "1.0",
   "notes": "This DOI represents one conceptual node within the DAISS Seed Matrix, a series of independent technical notes establishing the structural foundations for a forthcoming consolidated volume.",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/YourRepo",
+      "identifier": "https://github.com/YujiMarutani/sovereign-ai-protocol",
       "relation": "isSupplementTo",
       "resource_type": "other"
     }
