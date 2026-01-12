@@ -108,3 +108,5 @@ not as software or executable code.
 
 Subsystems evolve.  
 The OS persists.
+
+This subsystem node is considered structurally stable as of v1.0 and will not be retroactively revised.
