@@ -1,5 +1,36 @@
 {
-    "title": "Sovereign AI Protocol: Decentralized Adaptive Intelligence Spiral Science v0.1",
-    "creators": [{"name": "Marutani, Yuji", "affiliation": "Independent Researcher"}],
-    "description": "The first implementation of the DAISS framework, integrating 1.58-bit ternary logic and Helical Thinking."
+  "title": "DAISS: Strategic Intelligence Operating System — Core Conceptual Node",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "description": "DAISS (Strategic Intelligence Operating System) provides a structural framework for analyzing how modern psychological models emerged from military imperatives rather than therapeutic ideals. This conceptual technical note outlines the lineage of military psychology and its migration into civilian institutions, identifying three enduring architectures: Controllable Organisms, Information Processors, and Maintainable Systems. This document is not the book itself, but a foundational conceptual node within a broader research and publication framework.",
+  "creators": [
+    {
+      "name": "Marutani, Yuji",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "DAISS",
+    "Strategic Intelligence Operating System",
+    "Military Psychology",
+    "Cognitive Systems",
+    "Human Factors",
+    "Resilience Logistics",
+    "Information Processing",
+    "Behavioral Architecture",
+    "Conceptual Technical Note",
+    "Structural Analysis",
+    "Psychological Architecture"
+  ],
+  "language": "en",
+  "version": "2.2",
+  "notes": "This DOI represents one conceptual node within the DAISS Seed Matrix, a series of independent technical notes establishing the structural foundations for a forthcoming consolidated volume.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/YourRepo",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    }
+  ],
+  "license": "CC-BY-4.0"
 }
