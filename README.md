@@ -94,10 +94,11 @@ These layers help stabilize the conceptual ecosystem around DAISS.
 
 ## 📑 Zenodo Integration
 
-A DOI‑stamped conceptual working paper will accompany this subsystem.
+A DOI-stamped conceptual working paper accompanies this subsystem and serves as its canonical reference.
 
 - **DAISS Master DOI:** https://doi.org/10.5281/zenodo.18219673  
 - **Subsystem DOI (v1.0):** https://doi.org/10.5281/zenodo.18221765
+
 
 
 This repository is linked to Zenodo as a **supplementary conceptual resource**,  
