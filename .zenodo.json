@@ -1,8 +1,8 @@
 {
-  "title": "DAISS: Sovereign AI Protocol — Core Conceptual Node",
+  "title": "DAISS: Sovereign AI Protocol — Conceptual Subsystem Node",
   "upload_type": "publication",
   "publication_type": "workingpaper",
-  "description": "The Sovereign AI Protocol is a conceptual node within DAISS (Strategic Intelligence Operating System). This working paper outlines the structural principles behind sovereign AI architectures, focusing on autonomy, interpretability, and distributed decision-making. It functions as a foundational analytical document within a broader research and publication framework, and is not the book itself.",
+  "description": "The Sovereign AI Protocol is a conceptual subsystem within DAISS (Strategic Intelligence Operating System). This working paper outlines the structural principles behind autonomous, interpretable, and self-governing cognitive systems. It extends the Information Processor and Maintainable System architectures within DAISS, defining how an intelligent agent maintains decision-making integrity, internal interpretability, and stable autonomy under external pressure. This document is not the book itself, but a foundational conceptual node within a broader research and publication framework.",
   "creators": [
     {
       "name": "Marutani, Yuji",
@@ -13,16 +13,18 @@
     "DAISS",
     "Sovereign AI",
     "Strategic Intelligence Operating System",
-    "Distributed Cognition",
     "Autonomous Systems",
     "Interpretability",
     "Cognitive Architecture",
+    "Distributed Cognition",
+    "Resilience Logistics",
     "Conceptual Technical Note",
-    "Structural Analysis"
+    "Structural Analysis",
+    "Psychological Architecture"
   ],
   "language": "en",
   "version": "1.0",
-  "notes": "This DOI represents one conceptual node within the DAISS Seed Matrix, a series of independent technical notes establishing the structural foundations for a forthcoming consolidated volume.",
+  "notes": "This DOI represents a conceptual subsystem node within the DAISS Seed Matrix, a distributed series of technical notes establishing the structural foundations for a forthcoming consolidated volume.",
   "related_identifiers": [
     {
       "identifier": "https://github.com/YujiMarutani/sovereign-ai-protocol",
