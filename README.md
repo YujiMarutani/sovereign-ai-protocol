@@ -97,7 +97,8 @@ These layers help stabilize the conceptual ecosystem around DAISS.
 A DOI‑stamped conceptual working paper will accompany this subsystem.
 
 - **DAISS Master DOI:** https://doi.org/10.5281/zenodo.18219673  
-- **Subsystem DOI:** *(forthcoming)*
+- - **Subsystem DOI (v1.0):** https://doi.org/10.5281/zenodo.18221765
+
 
 This repository is linked to Zenodo as a **supplementary conceptual resource**,  
 not as software or executable code.
@@ -109,4 +110,9 @@ not as software or executable code.
 Subsystems evolve.  
 The OS persists.
 
-This subsystem node is considered structurally stable as of v1.0 and will not be retroactively revised.
+## 🔒 Node Status (Freeze Declaration)
+
+This conceptual subsystem node is considered structurally stable as of v1.0  
+and will not be retroactively revised.
+
+Future developments will be published as new DOI‑anchored nodes within the DAISS framework.
