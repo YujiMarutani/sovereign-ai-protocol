@@ -16,7 +16,7 @@ DAISS is organized into modular, sovereign nodes. Use the indices below to navig
 
 ### 1. [SUBSYSTEMS](./SUBSYSTEMS/index.md)
 Contains the functional logic for the Sovereignty, Cognition, and Resilience layers.
-* **[Sovereign AI Protocol](./protocol.md)**: The core autonomy and sovereignty subsystem node.
+* **[Sovereign AI Protocol](https://github.com/YujiMarutani/sovereign-ai-protocol)**: The core autonomy and sovereignty subsystem node (its `protocol.md` lives inside its own repository).
 
 ### 2. [SEED MATRIX](./SEED_MATRIX/index.md)
 The registry of 25 DOI-anchored conceptual seeds that form the DAISS Kernel. Each seed is immutable and versioned independently.
