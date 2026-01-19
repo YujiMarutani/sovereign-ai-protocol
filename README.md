@@ -1,54 +1,40 @@
-# 🛡️ Sovereign AI Protocol
-### A Conceptual Subsystem Node of the DAISS Operating System
+# 🛡️ DAISS: Sovereign Intelligence OS v2.3
+### — Distributed Architecture for Intelligent Sovereign Systems —
 
-[![Subsystem DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18221765.svg)](https://doi.org/10.5281/zenodo.18221765)
 [![DAISS Master DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18219673.svg)](https://doi.org/10.5281/zenodo.18219673)
+[![Project Status: Active](https://img.shields.io/badge/Project_Status-Active-brightgreen.svg)](https://github.com/YujiMarutani/sovereign-ai-protocol)
 
-This repository is a **Subsystem Node** of the DAISS Operating System.  
-For the OS kernel and full architecture, see:  
-👉 **[DAISS Master Node](https://github.com/YujiMarutani/daiss-master-node)**
-
----
-
-## 1. Purpose of This Node
-The **Sovereign AI Protocol** defines the **Autonomy & Sovereignty Layer** within DAISS. It specifies how an intelligent subsystem maintains autonomous decision-making and resists external domination.
-
-## 2. Positioning within DAISS
-- **Layer:** Sovereignty Layer
-- **Role:** Autonomy & Boundary Governance
-- **Upstream Dependencies:** Kernel Layer
-- **Downstream Consumers:** Implementation Layer, Application Layer
-
-## 3. Strategic Architecture
-DAISS models cognition through two enduring architectures within this node:
-- **Information Processor Layer:** Epistemic boundaries and internal legibility.
-- **Maintainable System Layer:** Autonomy, resilience logistics, and self-repair.
-
-## 4. Executive Summary
-- **Sovereignty:** The structural boundary of autonomous decision-making.
-- **Interpretability:** Internal transparency as a property of the system.
-- **Resilience:** Stability under cognitive or adversarial pressure.
-
-## 5. Conceptual Maps
-Diagrams are provided in Mermaid format for AI-assisted analysis:
-- `MAPS/sovereign-architecture.mmd`
-- `MAPS/interpretability-stack.mmd`
-- `MAPS/autonomy-boundaries.mmd`
-
-## 6. Zenodo Integration
-- **Subsystem DOI (v1.0):** [10.5281/zenodo.18221765](https://doi.org/10.5281/zenodo.18221765)
-- **DAISS Master DOI:** [10.5281/zenodo.18219673](https://doi.org/10.5281/zenodo.18219673)
+> **"This is the Master Node of a distributed cognitive architecture.  
+> It is not a project; it is a declaration of sovereign intelligence."**
 
 ---
 
-## 🔒 Node Status
-This conceptual subsystem node is considered **structurally stable** as of v1.0. Future developments will be published as new DOI-anchored nodes.
+## 🏛️ OS Structure & Navigation
+DAISS is organized into modular nodes. Navigate the architecture via the indices below:
 
-### Node Metadata
-- **layer:** Sovereignty
-- **depends_on:** Kernel
-- **status:** Persistent
-- **doi:** 10.5281/zenodo.18221765
+### 1. [SUBSYSTEMS](./SUBSYSTEMS/index.md)
+Contains the functional logic for Sovereignty, Cognition, and Resilience layers.
+- **Featured Node:** [Sovereign AI Protocol](./protocol.md) (The Core Autonomy Spec)
 
-For the formal specification, see:
-👉 protocol.md
+### 2. [SEED MATRIX](./SEED_MATRIX/index.md)
+The registry of 25 DOI-anchored conceptual "seeds" that form the OS Kernel.
+
+### 3. [MAPS](./MAPS/daiss-dependency.mmd)
+Visual dependency maps showing the non-cyclic flow of sovereign logic.
+
+---
+
+## ⚖️ Participation & Evolution
+To contribute to the DAISS ecosystem, you must adhere to the structural constraints defined in our legal framework:
+👉 **[DAISS Contribution Protocol v1.1](./CONTRIBUTING.md)**
+
+---
+
+## 📑 Canonical References
+- **Master DOI:** [10.5281/zenodo.18219673](https://doi.org/10.5281/zenodo.18219673)
+- **Sovereignty Subsystem DOI:** [10.5281/zenodo.18221765](https://doi.org/10.5281/zenodo.18221765)
+
+---
+
+## 🔒 Status: Persistent
+The Kernel layers of this OS are structurally frozen. Evolution occurs through the addition of new, independent nodes.
