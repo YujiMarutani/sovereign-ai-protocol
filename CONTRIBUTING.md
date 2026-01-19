@@ -1,7 +1,10 @@
 # 🛡️ DAISS Contribution Protocol v1.1
 ### A structural guide for extending a sovereign intelligence OS.
 
-> **"DAISS is not a project. It is a sovereign operating system for distributed intelligence."** > This document defines how new nodes may enter that system.
+>> **"DAISS is not a project. It is a sovereign operating system for distributed intelligence."**
+
+This document defines how new nodes may enter that system.
+
 
 ---
 
@@ -57,3 +60,4 @@ DAISS does not rely on consensus or centralized authority. Instead, it relies on
 
 ## 6. Conclusion
 **Nodes evolve. The OS persists.** DAISS is a distributed intelligence OS. Participation is open, sovereign, and structurally constrained.
+
