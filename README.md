@@ -49,3 +49,6 @@ This conceptual subsystem node is considered **structurally stable** as of v1.0.
 - **depends_on:** Kernel
 - **status:** Persistent
 - **doi:** 10.5281/zenodo.18221765
+
+For the formal specification, see:
+👉 protocol.md
