@@ -1,36 +1,56 @@
 graph TD
 
-%% Kernel Layer
-K1["Sovereign AI Protocol v2"]
-K2["Four-Layer Theory Formation"]
-K3["Helical Thinking Hats"]
-K4["Growing Paper"]
-K5["Hexagonal Harmony"]
-K6["DAISS OS v2.2"]
+%% ============================
+%% KERNEL LAYER (Layer 1)
+%% ============================
+subgraph L1[Layer 1 — Kernel Layer]
+    K1["Sovereign AI Protocol v2"]
+    K2["Four-Layer Theory Formation"]
+    K3["Helical Thinking Hats"]
+    K4["Growing Paper"]
+    K5["Hexagonal Harmony"]
+    K6["DAISS OS v2.2"]
+end
 
-%% Sovereignty Layer
-S1["Freedom of Reach"]
-S2["Venetian OS"]
-S3["Collective Hallucination"]
-S4["NuRD Sink"]
-S5["Reclaiming Judgment"]
-S6["Dissolution of Predatory Hierarchies"]
-S7["Sovereign AI Protocol Node"]
+%% ============================
+%% SOVEREIGNTY LAYER (Layer 2)
+%% ============================
+subgraph L2[Layer 2 — Sovereignty Layer]
+    S1["Freedom of Reach"]
+    S2["Venetian OS"]
+    S3["Collective Hallucination"]
+    S4["NuRD Sink"]
+    S5["Reclaiming Judgment"]
+    S6["Dissolution of Predatory Hierarchies"]
+    S7["Sovereign AI Protocol Node"]
+end
 
-%% Implementation Layer
-I1["mtCB1 Framework"]
-I2["670nm Photonic Optimization"]
-I3["MPBI Interface"]
-I4["Psychoplastogens"]
-I5["Maintainable Systems"]
-I6["Cognitive Layering Notes"]
+%% ============================
+%% IMPLEMENTATION LAYER (Layer 3)
+%% ============================
+subgraph L3[Layer 3 — Implementation Layer]
+    I1["mtCB1 Framework"]
+    I2["670nm Photonic Optimization"]
+    I3["MPBI Interface"]
+    I4["Psychoplastogens"]
+    I5["Maintainable Systems"]
+    I6["Cognitive Layering Notes"]
+end
 
-%% Application Layer
-A1["Low-Bit Quantization & Taiwan"]
-A2["Great Compression"]
-A3["Post-National Sovereignty"]
+%% ============================
+%% APPLICATION LAYER (Layer 4)
+%% ============================
+subgraph L4[Layer 4 — Application Layer]
+    A1["Low-Bit Quantization & Taiwan"]
+    A2["Great Compression"]
+    A3["Post-National Sovereignty"]
+end
 
-%% Kernel dependencies
+%% ============================
+%% DEPENDENCIES
+%% ============================
+
+%% Sovereignty → Kernel
 S1 --> K1
 S2 --> K1
 S3 --> K1
@@ -39,6 +59,7 @@ S5 --> K1
 S6 --> K1
 S7 --> K1
 
+%% Implementation → Kernel
 I1 --> K1
 I2 --> K1
 I3 --> K1
@@ -46,9 +67,12 @@ I4 --> K1
 I5 --> K1
 I6 --> K1
 
+%% Application → Sovereignty + Kernel
 A1 --> S1
 A1 --> K1
+
 A2 --> S2
 A2 --> K1
+
 A3 --> S2
 A3 --> K1
