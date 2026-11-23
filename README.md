@@ -11,6 +11,24 @@ DAISS is a distributed, DOI-anchored operating system composed of independently 
 
 ---
 
+## DOI Map — Which DOI Identifies What
+
+This repository sits inside a cluster of related Zenodo records. The DOIs are **not interchangeable**; each identifies a different layer or version:
+
+| DOI | Record | Role |
+|---|---|---|
+| 10.5281/zenodo.18104799 | *Sovereign AI Protocol v2* | Foundational theory of this protocol (supersedes v1, 10.5281/zenodo.18103015) |
+| 10.5281/zenodo.18219673 | *From Controllable Organisms to Maintainable Systems: A Structural Model of Modern Military Psychology* | The record behind the "Master DOI" badge above — a related foundational paper, not this repository itself |
+| 10.5281/zenodo.18194112 | *DAISS: Sovereign AI Protocol — Conceptual Subsystem Node* (concept DOI) | Concept DOI for the subsystem node; its versions are v0.1.0 (18194113), v2 (18207200), v2.2 (18211772), 1.0 (18221765, Jan 12 2026) and 1.0 (18307263, Jan 20 2026, latest) |
+| 10.5281/zenodo.18221765 | *DAISS: Sovereign AI Protocol — Conceptual Subsystem Node*, version of Jan 12, 2026 | The "Subsystem DOI" previously cited for this repository — one version within the concept above |
+| 10.5281/zenodo.18238127 | *DAISS: Sovereign AI Protocol — Conceptual Subsystem Node* | A separate same-title concept record (Jan 14, 2026), not a version of the concept above |
+| 10.5281/zenodo.18238448 | *DAISS v2.2: Structural Decoupling of Intelligence and Execution* | Related DAISS record |
+| 10.5281/zenodo.18228048 | *DAISS v2.2: Sovereignty as a Structural Property* | Related record whose implementation lives in the separate repository `daiss-v2.2` |
+
+The `.zenodo.json` in this repository describes the *Conceptual Subsystem Node*, which is why GitHub's Zenodo integration shows that title for this repository.
+
+---
+
 ## 🏛️ OS Structure & Navigation
 DAISS is organized into modular, sovereign nodes. Use the indices below to navigate the architecture.
 
